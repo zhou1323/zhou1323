@@ -6,20 +6,9 @@
 
 ### 📊 Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhou1323&hide=TeX&layout=compact) 
-![zhou1323's github stats](https://github-readme-stats.vercel.app/api?username=zhou1323&show_icons=true&hide_title=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhou1323&hide=TeX&layout=compact&size_weight=0.5&count_weight=0.5) 
+![zhou1323's github stats](https://github-readme-stats.vercel.app/api?username=zhou1323&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
+
 
 ### ✒️ Weekly development breakdown
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 10 hrs 57 mins
-
-Python       7 hrs 34 mins   >>>>>>>>>>>>>>>>>========   69.08 %
-BibTeX       1 hr 2 mins     >>=======================   09.45 %
-Git          46 mins         >>=======================   07.10 %
-CSV          46 mins         >>=======================   07.07 %
-JSON         20 mins         >========================   03.13 %
-```
-
-<!--END_SECTION:waka-->
+[![zhou1323's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhou1323)](https://github.com/anuraghazra/github-readme-stats)
