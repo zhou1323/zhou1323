@@ -11,4 +11,16 @@
 
 
 ### ✒️ Weekly development breakdown
-[![zhou1323's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhou1323)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+ 
+ ```txt
+ Total Time: 10 hrs 57 mins
+ 
+ Python       7 hrs 34 mins   >>>>>>>>>>>>>>>>>========   69.08 %
+ BibTeX       1 hr 2 mins     >>=======================   09.45 %
+ Git          46 mins         >>=======================   07.10 %
+ CSV          46 mins         >>=======================   07.07 %
+ JSON         20 mins         >========================   03.13 %
+ ```
+ 
+ <!--END_SECTION:waka-->
