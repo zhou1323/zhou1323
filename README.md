@@ -9,8 +9,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhou1323&hide=TeX&layout=compact) 
 ![zhou1323's github stats](https://github-readme-stats.vercel.app/api?username=zhou1323&show_icons=true&hide_title=true&count_private=true)
 
-[![zhou1323's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhou1323)](https://github.com/anuraghazra/github-readme-stats)
-
 ### ✒️ Weekly development breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
