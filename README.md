@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 54 mins
+Total Time: 6 hrs 20 mins
 
-Python   9 hrs 50 mins   >>>>>>>>>>>>>>>>>>>>>>>==   90.11 %
-JSON     1 hr 2 mins     >>=======================   09.47 %
-CSV      2 mins          =========================   00.41 %
+Python   5 hrs 15 mins   >>>>>>>>>>>>>>>>>>>>>====   82.98 %
+JSON     1 hr 2 mins     >>>>=====================   16.31 %
+CSV      2 mins          =========================   00.71 %
 ```
 
 <!--END_SECTION:waka-->
