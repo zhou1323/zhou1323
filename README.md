@@ -14,11 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 1 min
+Total Time: 5 mins
 
-Bash   35 mins         >>>>>>>>>>>>>>>==========   58.23 %
-YAML   20 mins         >>>>>>>>=================   32.90 %
-Git    5 mins          >>=======================   08.87 %
+Git   5 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
