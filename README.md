@@ -16,8 +16,7 @@
 ```txt
 Total Time: 22 mins
 
-Python   22 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.81 %
-YAML     0 secs          =========================   00.19 %
+Python   22 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
