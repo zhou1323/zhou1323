@@ -14,11 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 42 mins
+Total Time: 0 secs
 
-Markdown     34 mins               >>>>>>>>>>>>>>>>>>>>>====   82.44 %
-TypeScript   7 mins                >>>>=====================   16.96 %
-JSON         0 secs                =========================   00.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
