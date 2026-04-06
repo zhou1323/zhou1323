@@ -14,9 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 14 mins
 
-No activity tracked
+Python   12 mins               >>>>>>>>>>>>>>>>>>>>>>===   86.22 %
+JSON     1 min                 >>>======================   13.78 %
 ```
 
 <!--END_SECTION:waka-->
