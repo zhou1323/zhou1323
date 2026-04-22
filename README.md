@@ -14,11 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 48 mins
+Total Time: 2 hrs 35 mins
 
-JavaScript   2 hrs 43 mins         >>>>>>>>>>>>>>>>>>=======   71.49 %
-Python       46 mins               >>>>>====================   20.19 %
-JSON         18 mins               >>=======================   08.32 %
+JavaScript   2 hrs 35 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
