@@ -14,9 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 7 mins
 
-No activity tracked
+Other   53 mins               >>>>>>>>>>>>>>>>>>>>>>===   88.02 %
+JSON    6 mins                >>>======================   10.09 %
+Bash    1 min                 =========================   01.89 %
 ```
 
 <!--END_SECTION:waka-->
