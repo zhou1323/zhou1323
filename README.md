@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 48 hrs 21 mins
+Total Time: 56 hrs 32 mins
 
-CSS           22 hrs 1 min          >>>>>>>>=================   33.67 %
-JavaScript    19 hrs 40 mins        >>>>>>>>=================   30.09 %
-Other         17 hrs 3 mins         >>>>>>>==================   26.07 %
-JSON          2 hrs 24 mins         >========================   03.69 %
-Markdown      1 hr 36 mins          >========================   02.47 %
+JavaScript    23 hrs 14 mins        >>>>>>>>=================   33.54 %
+CSS           14 hrs 55 mins        >>>>>====================   21.54 %
+Other         12 hrs 45 mins        >>>>>====================   18.41 %
+TypeScript    7 hrs 12 mins         >>>======================   10.40 %
+JSON          4 hrs 19 mins         >>=======================   06.24 %
 ```
 
 <!--END_SECTION:waka-->
