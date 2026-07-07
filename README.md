@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 58 mins
+Total Time: 6 hrs 44 mins
 
-JavaScript                 2 hrs 52 mins         >>>>>>>>>>>>>============   52.19 %
-Markdown                   1 hr 18 mins          >>>>>>===================   23.90 %
-Other                      31 mins               >>=======================   09.53 %
-YAML                       27 mins               >>=======================   08.18 %
-Nginx configuration file   17 mins               >========================   05.39 %
+JavaScript                 2 hrs 32 mins         >>>>>>>>=================   33.81 %
+TypeScript                 1 hr 8 mins           >>>>=====================   15.17 %
+PowerShell                 58 mins               >>>======================   12.96 %
+Other                      47 mins               >>>======================   10.41 %
+YAML                       35 mins               >>=======================   07.77 %
 ```
 
 <!--END_SECTION:waka-->
